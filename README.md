@@ -1,6 +1,7 @@
 <h1>Langchain Voice Agent with Dataframe Interaction</h1>
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/8be02af0-dd91-4569-867d-6eb9bb61b37e)
+
 
 
 <p>This project demonstrates the creation of an AI voice agent that records, transcribes audio input, and interacts with a Pandas dataframe using Langchain. The agent leverages OpenAI's Whisper for transcription and OpenAI's GPT-based model to handle queries related to a dataframe.</p>
