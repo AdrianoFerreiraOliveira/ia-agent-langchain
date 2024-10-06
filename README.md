@@ -34,3 +34,6 @@ OPENAI_API_KEY=your-api-key-here
 
 python talking.py
 
+press [0] and talking
+press [0] to stop and wait for response
+
